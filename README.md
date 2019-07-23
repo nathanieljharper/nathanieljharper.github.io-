@@ -1,0 +1,13 @@
+
+I decided to base my interactive gallery around the 2018 Canadian Grand Prix where I took attended and took photos. Right from the start I decided that I wanted to create clickable images that would expand and reveal relevant text pertaining to the race results as this would connect both the gallery and racing theme I was aiming to achieve. 
+
+I created my interactive gallery by using a series of empty divs with the class names of photo including their respective numbers. Since I started this project early in our lessons of JavaScript, I opted to use the effective but simplistic innerHTML method of inserting the images into the empty divs. Once the images were inserted, I needed to make the images clickable to reveal a larger highlighted image. In order to do this I needed to add event listeners to the photos to display the larger image. After doing some research online, I found the onclick method which can be used to act as an event listener. Using this I then was able to display my text, larger image, and greyed out background.
+
+At this point I had run into very few issues with my gallery, however I began to struggle as my method of retriving the large picture source using the .src method in Javascript was pulling the lowest quality source by default. This made the highlighted image very grainy and low quality particularly when viewed on desktop screens. In order to combat this, I had the idea to insert an additional 'highlighted image' that was set to display: none by default. However, when the gallery image was clicked it switches to remove the display of the original image and displays the large highlighted image with a higher quality source.
+
+After fixing these image sources, I needed a way to close the large highlighted image while returning to the gallery. After some additional research I found that &times; added to a span tag can create a 'x' used for closing a window. Following some additional styling I had created something that I liked. Using JavaScript I created a reverse method onclick event listener that closed the highlighted image, removed the greyed out overlay, and hid the text while taking the user back to the gallery.
+
+Overall I learned alot from this interactive gallery project. By deciding what I wanted to create from the start, it challenged me to learn new methods of HTML, CSS & JavaScript. I learned how to create a close window 'x' using HTML and CSS. I learned the onclick functionality as an event listener to allow an interactive component to the gallery, and I learned how to use these event listeners to help select the image source that I needed to fit each specific viewport.
+
+
+Nathaniel Harper# nathanieljharper.github.io-
