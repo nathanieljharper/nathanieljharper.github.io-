@@ -5,15 +5,15 @@ const $photo1 = document.querySelector(".photo1");
 const photo1 =
         `<img
             class="vettel"
-            srcset="/images/image1-vettel-400.jpg 400w,
-                    /images/image1-vettel-600.jpg 600w,
-                    /images/image1-vettel-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image1-vettel-400.jpg 400w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image1-vettel-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image1-vettel-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image1-vettel-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image1-vettel-400.jpg"
             alt="Sebastian Vettel">
         <img
             class="highlight1"
-            src="/images/image1-vettel-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image1-vettel-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Name: Sebastian Vettel<br>Car Number: #5<br>Starting Position: P1<br>Finishing Positon: P1<br>">`
 
@@ -208,15 +208,15 @@ const $photo2 = document.querySelector(".photo2");
 const photo2 =
          `<img
             class="gasly"
-            srcset="/images/image2-gasly-400.jpg 400w,
-                    /images/image2-gasly-600.jpg 600w,
-                    /images/image2-gasly-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image2-gasly-400.jpg 400w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image2-gasly-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image2-gasly-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image2-gasly-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image2-gasly-400.jpg"
             alt="Pierre Gasly's Car">
           <img
             class="highlight2"
-            src="/images/image2-gasly-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image2-gasly-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Name: Pierre Gasly<br>Car Number: #10<br>Starting Position: P16<br>Finishing Positon: P11<br>">`
 
@@ -249,15 +249,15 @@ const $photo3 = document.querySelector(".photo3");
 const photo3 =
       `<img
             class="gilles"
-            srcset="/images/image3-gilles-400.jpg 400w,
-                    /images/image3-gilles-600.jpg 600w,
-                    /images/image3-gilles-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image3-gilles-400.jpg 400w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image3-gilles-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image3-gilles-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image2-gasly-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image2-gasly-400.jpg"
             alt="Gilles Villenueve">
         <img
             class="highlight3"
-            src="/images/image3-gilles-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image3-gilles-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Name: Jacques Villeneuve<br>Car Number: #12<br>Starting Position: N/A<br>Finishing Positon: N/A<br>">`
 
@@ -290,15 +290,15 @@ const $photo4 = document.querySelector(".photo4");
 const photo4 =
       `<img
             class="ricciardo";
-            srcset="/images/image4-ricciardo-400.jpg 400w,
-                    /images/image4-ricciardo-600.jpg 600w,
-                    /images/image4-ricciardo-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image4-ricciardo-400.jpg 400w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image4-ricciardo-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image4-ricciardo-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image4-ricciardo-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image4-ricciardo-400.jpg"
             alt="Daniel Ricciardo">
         <img
             class="highlight4"
-            src="/images/image4-ricciardo-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image4-ricciardo-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Name: Daniel Ricciardo <br>Car Number: #3<br>Starting Position: P6 <br>Finishing Positon: P4<br>">`
 
@@ -331,15 +331,15 @@ const $photo5 = document.querySelector(".photo5");
 const photo5 =
       `<img
             class="alonso"
-            srcset="/images/image5-alonso-400.jpg 400w,
-                    /images/image5-alonso-600.jpg 600w,
-                    /images/image5-alonso-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image5-alonso-400.jpg 400w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image5-alonso-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image5-alonso-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image5-alonso-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image5-alonso-400.jpg"
             alt="Fernando Alonso">
         <img
             class="highlight5"
-            src="/images/image5-alonso-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image5-alonso-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Name: Fernando Alonso<br>Car Number: #14<br>Starting Position: P14<br>Finishing Positon: DNF<br>">`
 
@@ -372,15 +372,15 @@ const $photo6 = document.querySelector(".photo6");
 const photo6 =
       `<img 
             class="racetrack"
-            srcset="/images/image6-racetrack-400.jpg 400w,
-                    /images/image6-racetrack-600.jpg 600w,
-                    /images/image6-racetrack-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image6-racetrack-400.jpg 400w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image6-racetrack-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image6-racetrack-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image6-racetrack-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image6-racetrack-400.jpg"
             alt="Racetrack">
         <img
             class="highlight6"
-            src="/images/image6-racetrack-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image6-racetrack-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Name: Circuit Gilles Villenueve<br>First Race: 1978<br>">`
 
@@ -413,15 +413,15 @@ const $photo7 = document.querySelector(".photo7");
 const photo7 =
       `<img
             class="leclerc"
-            srcset="/images/image7-leclerc-400.jpg 400w,
-                    /images/image7-leclerc-600.jpg 600w,
-                    /images/image7-leclerc-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image7-leclerc-400.jpg 400w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image7-leclerc-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image7-leclerc-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image7-leclerc-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image7-leclerc-400.jpg"
             alt="Charles Leclerc">
         <img
             class="highlight7"
-            src="/images/image7-leclerc-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image7-leclerc-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Name: Charles Leclerc<br>Car Number: #16<br>Starting Position: P13<br>Finishing Positon: P10<br>">`
 
@@ -454,15 +454,15 @@ const $photo8 = document.querySelector(".photo8");
 const photo8 =
       `<img
             class="kimi"
-            srcset="/images/image8-kimi-and-grosjean-400.jpg 400w,
-                    /images/image8-kimi-and-grosjean-600.jpg 600w,
-                    /images/image8-kimi-and-grosjean-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image8-kimi-and-grosjean-400.jpg 400w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image8-kimi-and-grosjean-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image8-kimi-and-grosjean-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image8-kimi-and-grosjean-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image8-kimi-and-grosjean-400.jpg"
             alt="Kimi and Grosjean">
         <img
             class="highlight8"
-            src="/images/image8-kimi-and-grosjean-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image8-kimi-and-grosjean-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Names: Kimi Raikkonen & Romain Grosjean<br>Car Numbers: #7 and #8<br>Starting Positions: Kimi - P5 Romain - DNQ <br>Finishing Positon: Kimi - P6 Romain - P12<br>">`
 
@@ -495,15 +495,15 @@ const $photo9 = document.querySelector(".photo9");
 const photo9 =
       `<img
             class="leclerc-kimi"
-            srcset="/images/image9-kimi-and-leclerc-400.jpg 400w,
-                    /images/image9-kimi-and-leclerc-600.jpg 600w,
-                    /images/image9-kimi-and-leclerc-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image9-kimi-and-leclerc-400.jpg 400w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image9-kimi-and-leclerc-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image9-kimi-and-leclerc-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image9-kimi-and-leclerc-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image9-kimi-and-leclerc-400.jpg"
             alt="Kimi and Leclerc">
         <img
             class="highlight9"
-            src="/images/image9-kimi-and-leclerc-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image9-kimi-and-leclerc-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Names: Charles Leclerc & Kimi Raikkonen<br>Car Numbers: #16 and #7<br>Starting Positions: Charles - P13 Kimi - P5 <br>Finishing Positons: Charles - P10 Kimi - P6<br>">`
 
@@ -537,15 +537,15 @@ const $photo10 = document.querySelector(".photo10");
 const photo10 =
       `<img
             class="hamilton"
-            srcset="/images/image10-hamilton-400.jpg 400w,
-                    /images/image10-hamilton-600.jpg 600w,
-                    /images/image10-hamilton-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image10-hamilton-400.jpg 400w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image10-hamilton-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image10-hamilton-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image10-hamilton-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image10-hamilton-400.jpg"
             alt="Lewis Hamilton">
         <img
             class="highlight10"
-            src="/images/image10-hamilton-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image10-hamilton-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Name: Lewis Hamilton<br>Car Number: #44<br>Starting Position: P4 <br>Finishing Positon: P5<br>">`
 
@@ -578,15 +578,15 @@ const $photo11 = document.querySelector(".photo11");
 const photo11 =
       `<img
             class="hulkenburg"
-            srcset="/images/image11-hulkenburg-400.jpg 400w,
-                    /images/image11-hulkenburg-600.jpg 600w,
-                    /images/image11-hulkenburg-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image11-hulkenburg-400.jpg 400w,
+                   https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image11-hulkenburg-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image11-hulkenburg-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image11-hulkenburg-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image11-hulkenburg-400.jpg"
             alt="Nico Hulkenburg">
         <img
             class="highlight11"
-            src="/images/image11-hulkenburg-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image11-hulkenburg-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Name: Nico Hulkenburg<br>Car Number: #27<br>Starting Position: P7<br>Finishing Positon: P7<br>">`
 
@@ -619,15 +619,15 @@ const $photo12 = document.querySelector(".photo12");
 const photo12 =
       `<img
             class="ricciardo-car"
-            srcset="/images/image12-ricciardo-car-400.jpg 400w,
-                    /images/image12-ricciardo-car-600.jpg 600w,
-                    /images/image12-ricciardo-car-800.jpg 800w"
+            srcset="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image12-ricciardo-car-400.jpg 400w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image12-ricciardo-car-600.jpg 600w,
+                    https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image12-ricciardo-car-800.jpg 800w"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
-            src="/images/image12-ricciardo-car-400.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image12-ricciardo-car-400.jpg"
             alt="Daniel Ricciardo's Car">
         <img
             class="highlight12"
-            src="/images/image12-ricciardo-car-800.jpg"
+            src="https://nathanieljharper.github.io/nathanieljharper.github.io-/images/image12-ricciardo-car-800.jpg"
             sizes="(min-width: 65rem) 20vw, (max-width: 65rem) and (min-width: 35rem) 25vw, (max-width: 35rem) 40vw"
             alt="Daniel Ricciardo's Car<br>Car Number: #3<br>Starting Position: P6<br>Finishing Positon: P4<br>">`
 
